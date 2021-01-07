@@ -9,7 +9,7 @@ Scripts for the first assignment of the course Advanced Topics in SMC.
 
 1. Install the python requirements : 
 ```ShellSesion
-    pip install -r musicnn-training/requirements.txt
+    pip install -r Assignment 1/requirements.txt
 ```
     
 2. Training and testing the model (compared with the linear regression model provided by the scikit-learn library)
